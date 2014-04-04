@@ -3,5 +3,9 @@
 
     <string name="app_name">RemoteViews Demo</string>
     <string name="hello_world">Hello world!</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Save title</string>
+    <string name="settings_button_text">Settings</string>
 
 </resources>
